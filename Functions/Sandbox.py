@@ -10,6 +10,6 @@ def main():
 
 
 def greeting(first, last):
-    print('Welcome', first, last,  '!')
+    print('Welcome', first, last, '!')
 
 main()
